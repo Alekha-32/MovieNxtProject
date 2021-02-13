@@ -1,0 +1,12 @@
+P:\Project 2.0\Project\Project\bin\Debug\Project.exe.config
+P:\Project 2.0\Project\Project\bin\Debug\Project.exe
+P:\Project 2.0\Project\Project\bin\Debug\Project.pdb
+P:\Project 2.0\Project\Project\bin\Debug\EntityFramework.dll
+P:\Project 2.0\Project\Project\bin\Debug\EntityFramework.SqlServer.dll
+P:\Project 2.0\Project\Project\bin\Debug\EntityFramework.xml
+P:\Project 2.0\Project\Project\bin\Debug\EntityFramework.SqlServer.xml
+P:\Project 2.0\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+P:\Project 2.0\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+P:\Project 2.0\Project\Project\obj\Debug\Project.csproj.CopyComplete
+P:\Project 2.0\Project\Project\obj\Debug\Project.exe
+P:\Project 2.0\Project\Project\obj\Debug\Project.pdb
